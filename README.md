@@ -2,7 +2,6 @@
 ### chatbot-master                        
 You can access complete documentation here: https://studentprojectshub.blogspot.com/2020/12/chat-bot-master-with-artificial-neural.html                                              
 Data: Uploaded the data in the Repository                                                                                                                                           
-https://user-images.githubusercontent.com/60067496/115269720-36e3eb80-a159-11eb-8d73-f4f1cf772f20.mp4
 
 
 
@@ -11,7 +10,9 @@ You can access complete documentation here: (I will write a blog soon)
 Data: I couldn't upload data because of it's size, You can download it from here: https://www.kaggle.com/c/ga-customer-revenue-prediction/data                                                
 ### Hand Written Digits recognition                       
 You can refer the pdf uploaded in the folder.                                                                                                                                         
-mnist data was used for developing the model, which can be downloaded from keras library      
+mnist data was used for developing the model, which can be downloaded from keras library 
+https://user-images.githubusercontent.com/60067496/115270289-cc7f7b00-a159-11eb-88ef-8db3ad34f58f.mp4
+
 
 ### Human Activity Recognition                       
 You can access complete documentation here: https://studentprojectshub.blogspot.com/2020/12/human-action-recognition-through.html                                                                                                                                      
