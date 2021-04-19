@@ -10,7 +10,7 @@ You can access complete documentation here: (I will write a blog soon)
 Data: I couldn't upload data because of it's size, You can download it from here: https://www.kaggle.com/c/ga-customer-revenue-prediction/data                                                
 ### Hand Written Digits recognition                       
 You can refer the pdf uploaded in the folder.                                                                                                                                         
-mnist data was used for developing the model, which can be downloaded from keras library 
+mnist data was used for developing the model, which can be downloaded from keras library                                                                                                
 https://user-images.githubusercontent.com/60067496/115270289-cc7f7b00-a159-11eb-88ef-8db3ad34f58f.mp4
 
 
